@@ -2,4 +2,4 @@ this is test 2
 
 I deleted a line ot test 2!
 
-GitBash rules
+GitBash rules!
