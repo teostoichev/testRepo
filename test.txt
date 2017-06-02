@@ -3,3 +3,5 @@ this is test 1
 made some changes
 
 I made some more changes on test.txt with GitBash!
+
+Tried to make a confict
