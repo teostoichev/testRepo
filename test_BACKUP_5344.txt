@@ -3,5 +3,9 @@ this is test 1
 made some changes
 
 I made some more changes on test.txt with GitBash!
+
+<<<<<<< HEAD
 I deleted your changes from /D:
+=======
 Tried to make a confict
+>>>>>>> 88fad8f741ae069a1a1d9a1f5cf29217e7271a31
